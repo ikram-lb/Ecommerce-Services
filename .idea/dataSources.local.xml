@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="IU-233.15026.9">
+    <data-source name="products-db" uuid="f9de43b7-e3c1-4ecf-ad18-b7ca27d4ee57">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="H2" />
+      <schema-mapping />
+    </data-source>
+    <data-source name="customer-db" uuid="5a943100-f223-40df-a1fc-9a043defd0f4">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="H2" />
+      <schema-mapping />
+    </data-source>
+    <data-source name="bill-db" uuid="0edb4b02-e70c-447b-b5e0-c2bd279c1f59">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="H2" />
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>
